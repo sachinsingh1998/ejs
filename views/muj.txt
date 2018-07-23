@@ -1,0 +1,8 @@
+
+<ul>
+	<%for(var person of people) { %>
+	<%if(person.age>18) {%>
+	<li>Name:<%=person.name%> ID:<%=person.id%> Age:<%=person.age%></l1>
+	<% }%>
+	<% }%>
+</ul>
