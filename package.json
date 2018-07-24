@@ -1,0 +1,27 @@
+{
+  "name": "ejs",
+  "version": "1.0.0",
+  "description": "ejs files by Sachin Singh",
+  "main": "simple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinsingh1998/ejs.git"
+  },
+  "author": "Sachin Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachinsingh1998/ejs/issues"
+  },
+  "homepage": "https://github.com/sachinsingh1998/ejs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-ejs-layouts": "^2.4.0",
+    "path": "^0.12.7"
+  }
+}
